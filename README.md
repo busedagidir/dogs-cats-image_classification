@@ -30,10 +30,10 @@ Train model and run the program:
 ```python train.py```
 
 Train accuracy
-<img src="D:\PyCharmProjects\PyCharmProjects_0\pytorch-classification\dogs-cats-image_classification\acc.png">
+![train accuracy](./acc.png)
 
 Train-Val loss
-<img src="D:\PyCharmProjects\PyCharmProjects_0\pytorch-classification\dogs-cats-image_classification\train-val-loss.png">
+![train-val loss](./train-val-loss.png)
 
 Classification Matrix
-<img src="D:\PyCharmProjects\PyCharmProjects_0\pytorch-classification\dogs-cats-image_classification\dogs-cats-cm.png">
+![cm](./dogs-cats-cm.png)
