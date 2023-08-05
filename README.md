@@ -8,10 +8,10 @@ In this repo I deleted some of the images to make train faster.
 
 ### 1.2 Sample Data
 Cats:\
-![cat dataset](./dogs-cats-image_classification\readme_imgs\cats.png)
+![cat dataset](./readme_imgs\cats.png)
 
 Dogs:
-![dog dataset](D:/PyCharmProjects/PyCharmProjects_0\pytorch-classification\dogs-cats-image_classification\readme_imgs\dogs.png)
+![dog dataset](./readme_imgs\dogs.png)
 
 ### 1.3 Software and Packages
 Necessary libraries can be found in ``requirements.txt`` file and can be install with the given command below:
